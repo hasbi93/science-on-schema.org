@@ -27,14 +27,12 @@ Science on Schema.org (SOSO) releases are archived on Zenodo, and the current re
 
 ## Community 
 
-This guidance has been created by members of the ESIP [science-on-schema.org cluster](http://wiki.esipfed.org/index.php/Schema.org_Cluster). The cluster will be seeking endorsement across all members of ESIP, and in the meantime is releasing a series of progressively more mature guidance documents for the community. Your feedback and contributions are welcome. The cluster meets twice monthly, and all are welcome:
+This guidance has been created by members of the ESIP [science-on-schema.org cluster](http://wiki.esipfed.org/index.php/Schema.org_Cluster). The cluster will be seeking endorsement across all members of ESIP, and in the meantime is releasing a series of progressively more mature guidance documents for the community. Your feedback and contributions are welcome. The cluster meets monthly, and all are welcome:
 
 - When: 
     - 4th Thursday, 2:30pm ET
 - Where: Telecons via Zoom
-    - Connection: https://us02web.zoom.us/j/84043422486?pwd=bGM4YkFyMkFGSW1FZG5yaFRNaGNvdz09
-    - Phone Access: United States: +1 (786) 535-3211
-    - Dial by your location (Find your local number: https://us02web.zoom.us/u/kcKljXMoF0)
+    - Register via the [ESIP Community Calendar](https://www.esipfed.org/community-calendar/)
 - [Living Agenda](https://docs.google.com/document/d/1tIlDVnKeocO1E_SSbNaldv0avORfGFdmYDNk_3ub6ik/edit?ts=5d9ed12d)
 
 ## Version DOIs
@@ -141,4 +139,3 @@ distributed under the License is distributed on an "AS IS" BASIS,
 WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
-
